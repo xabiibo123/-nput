@@ -1,0 +1,21 @@
+h1{
+    background: #101334;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(52, 68, 82);
+}
+.warpper{
+    width: 350px;
+    margin: 8%;
+    padding: 10px;
+    background-color: rgba(0,0,0,0,23 );
+    box-shadow: 0 0 30px rgba(3,3,3 );
+    border-radius: 20px;
+}
+.heading{
+    text-align: center;
+    padding-top: 40px;
+}
